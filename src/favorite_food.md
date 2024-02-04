@@ -1,3 +1,3 @@
 # favorite food
 
-apple
+たこ焼き
